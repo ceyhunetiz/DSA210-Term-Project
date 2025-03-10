@@ -30,5 +30,9 @@ As my smartphone became one of my essentials in daily life, it also started cons
 
 **30 May:** Submission deadline. 
 
+## Hypothesis
+
+- **Null Hypothesis:** There is no significant relationship between screen time and physcial activity levels.
+- **Alternative Hypothesis:** There is a significant relationship between screen time and physical activity, with increased screen time associated with lower activity levels.
 
 
