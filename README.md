@@ -1,5 +1,5 @@
 # DSA210-Term-Project
-## Analysis of the Data Screen Time and Physical Activity: How does screen time effect physical activity/performance? 
+## Analysis of the Screen Time and Physical Activity Data: How does screen time effect physical activity/performance? 
 
 ## Project Overview
 Over the given weeks, I will analyze my **smartphone screen time** and **physical activity levels** using data from an **Apple Watch SE (2nd Gen)** and **iPhone Screen Time reports**. By leveraging data analysis and machine learning techniques, I aim to determine whether increased screen time correlates with decreased physical activity/performance  and how external factors like sleep and weather influence this relationship. This project will involve data collection, feature engineering, exploratory data analysis, and predictive modeling.
