@@ -23,11 +23,11 @@ As my smartphone became one of my essentials in daily life, it also started cons
 
 ## Dataset
 
-### iPhone Screen Time Data:
+### iPhone Screen Time Data (Gathered from my personal phone):
 - **Daily screen time duration** (total hours and minutes)
 - **Breakdown of screen time** by app category (e.g., social media, productivity, entertainment)
 
-### Apple Health Data:
+### Apple Health Data (Gathered from my apple watch):
 - **Daily step count**
 - **Heart rate measurements** (resting heart rate and average daily heart rate)
 - **Active calories burned**
@@ -35,7 +35,8 @@ As my smartphone became one of my essentials in daily life, it also started cons
 - **Sleep duration**
 
 
-### Weather Data:
+### Weather Data (Gathered from a weather API) :
+link: https://www.timeanddate.com/weather/turkey/istanbul/historic
 - **Daily temperature** (minimum, maximum, and average)
 - **Weather Conditions**
 - **Humidity**
