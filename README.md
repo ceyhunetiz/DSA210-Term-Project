@@ -14,17 +14,36 @@ As my smartphone became one of my essentials in daily life, it also started cons
 - **Develop a Model:** Develop a model using python to uncover trends and predict the effects of screen time on exercise.
 
 ## Research Questions
-- ** What is the correlation between screen time and daily physical activity levels?
-- ** Do external factors such as hours of sleep and class hours moderate the relationship between screen time and physical activity?
-- **How do environmental factors (e.g., weather conditions) influence screen time and physical activity behavior?
-- **Can a predictive model effectively forecast physical activity levels based on screen time patterns and other external factors?
+- **What is the correlation between screen time and daily physical activity levels?**
+- **Do external factors such as hours of sleep and class hours moderate the relationship between screen time and physical activity?**
+- **How do environmental factors (e.g., weather conditions) influence screen time and physical activity behavior?**
+- **Can a predictive model effectively forecast physical activity levels based on screen time patterns and other external factors?**
 
 
 
 ## Dataset
-- **Iphone Data:** Data from the screen time tab in my personal iphone
-- **Apple Health:** Daily logs of heart rate measures, step count, workouts, time in daylight
-- **Weather Data:** Daily Weather data to compare how environmental changes affect behaviors in screen use
+
+### iPhone Screen Time Data:
+- **Daily screen time duration** (total hours and minutes)
+- **Breakdown of screen time** by app category (e.g., social media, productivity, entertainment)
+
+### Apple Health Data:
+- **Daily step count**
+- **Heart rate measurements** (resting heart rate and average daily heart rate)
+- **Active calories burned**
+- **Exercise duration** (minutes per day)
+- **Sleep duration**
+
+
+### Weather Data:
+- **Daily temperature** (minimum, maximum, and average)
+- **Weather Conditions**
+- **Humidity**
+
+### Other:
+- **Academic Schedule** (class hours & midterm weeks) 
+
+
 
 ## Timeline of the Project
 
