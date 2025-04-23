@@ -36,8 +36,8 @@ As my smartphone became one of my essentials in daily life, it also started cons
 
 
 ### Weather Data (Gathered from a weather API) :
-link: https://www.timeanddate.com/weather/turkey/istanbul/historic
-- **Daily temperature** (minimum, maximum, and average)
+link: https://www.visualcrossing.com/weather-data/
+- **Daily temperature** 
 - **Weather Conditions**
 - **Humidity**
 
