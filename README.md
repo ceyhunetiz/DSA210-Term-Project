@@ -26,6 +26,7 @@ As my smartphone became one of my essentials in daily life, it also started cons
 ### iPhone Screen Time Data (Gathered from my personal phone):
 - **Daily screen time duration** (total hours and minutes)
 - **Breakdown of screen time** by app category (e.g., social media, productivity, entertainment)
+- Collection: daily tracking
 
 ### Apple Health Data (Gathered from my apple watch):
 - **Daily step count**
@@ -33,6 +34,7 @@ As my smartphone became one of my essentials in daily life, it also started cons
 - **Active calories burned**
 - **Exercise duration** (minutes per day)
 - **Sleep duration**
+- Collection: through apple health data export
 
 
 ### Weather Data (Gathered from a weather API) :
@@ -40,6 +42,7 @@ link: https://www.visualcrossing.com/weather-data/
 - **Daily temperature** 
 - **Weather Conditions**
 - **Humidity**
+- Collection: weather api (using codes to extract weather data)
 
 ### Other:
 - **Academic Schedule** (class hours & midterm weeks) 
